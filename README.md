@@ -2,7 +2,7 @@
 
 I'm a second-year B.Tech Data Science student at **NMIMS MPSTME, Mumbai** passionate about turning raw data into insights that actually mean something.
 
-I enjoy building end-to-end data projects — from cleaning messy datasets and running statistical analysis to training ML models and visualizing results. I'm actively looking for **Data Analyst / Data Science internships for Summer 2026**.
+I enjoy building end-to-end data projects — from cleaning messy datasets and running statistical analysis to training ML models and visualizing results.
 
 ---
 
@@ -31,29 +31,6 @@ I enjoy building end-to-end data projects — from cleaning messy datasets and r
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
----
-
-## 📂 Projects
-
-### 📉 [Customer Churn Prediction](https://github.com/gauri210/customer-churn-prediction)
-> Python · Logistic Regression · scikit-learn · Pandas
-
-Built a binary classification model on 594K+ telco customer records (Kaggle PGS S6E3) to predict customer churn. Achieved **ROC-AUC of 0.9087**. Engineered 4 domain-driven features and uncovered that month-to-month contracts have a 42% churn rate vs. 1% on two-year contracts.
-
----
-
-### 📈 [Indian Stock Market Analysis](https://github.com/gauri210/indian-stock-market-analysis)
-> Python · Pandas · Matplotlib · Seaborn · yfinance
-
-EDA on 5 years (2020–2025) of daily price data for 10 NIFTY 50 stocks across IT, Banking, Energy, and FMCG sectors. Quantified volatility, annotated major market events (COVID crash, 2024 election dip), and identified optimal portfolio combination using correlation analysis.
-
----
-
-### 🎵 [VibeVault — Music Streaming Database](https://github.com/gauri210/vibeVault)
-> MySQL · SQL · Power BI
-
-Designed and queried a relational database for a Spotify-like platform with 15 tables. Wrote 25+ SQL queries for business insights on user behavior, artist performance, and subscription trends. Connected to Power BI for an interactive KPI dashboard.
 
 ---
 
