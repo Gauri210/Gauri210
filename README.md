@@ -1,6 +1,6 @@
 # Hey, I'm Gauri 👋
 
-I'm a second-year B.Tech Data Science student at **NMIMS MPSTME, Mumbai** passionate about turning raw data into insights that actually mean something.
+I'm a second-year B.Tech Data Science student at NMIMS MPSTME, Mumbai passionate about turning raw data into insights that actually mean something.
 
 I enjoy building end-to-end data projects — from cleaning messy datasets and running statistical analysis to training ML models and visualizing results.
 
@@ -37,7 +37,7 @@ I enjoy building end-to-end data projects — from cleaning messy datasets and r
 ## 📚 Currently Learning
 
 - Machine Learning
-- Data Structures & Algorithms for interviews
+- Data Structures & Algorithms
 - Power BI
 - SQL
 
