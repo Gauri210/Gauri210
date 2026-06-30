@@ -1,6 +1,6 @@
 # Hey, I'm Gauri 👋
 
-I'm a second-year B.Tech Data Science student at NMIMS MPSTME, Mumbai passionate about turning raw data into insights that actually mean something.
+I'm an aspiring data scientist passionate about turning raw data into insights that actually mean something.
 
 I enjoy building end-to-end data projects — from cleaning messy datasets and running statistical analysis to training ML models and visualizing results.
 
@@ -32,14 +32,6 @@ I enjoy building end-to-end data projects — from cleaning messy datasets and r
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
----
-
-## 📚 Currently Learning
-
-- Machine Learning
-- Data Structures & Algorithms
-- Power BI
-- SQL
 
 ---
 
@@ -50,5 +42,3 @@ I enjoy building end-to-end data projects — from cleaning messy datasets and r
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gaurideshmukh@gmail.com)
 
 ---
-
-*Open to internship opportunities in Data Analytics and Data Science — feel free to reach out!*
