@@ -1,44 +1,31 @@
-# Hey, I'm Gauri 👋
+# Gauri Deshmukh
 
-I'm an aspiring data scientist passionate about turning raw data into insights that actually mean something.
+B.Tech Data Science (2024–2028), NMIMS MPSTME, Mumbai
 
-I enjoy building end-to-end data projects — from cleaning messy datasets and running statistical analysis to training ML models and visualizing results.
+I work across data analysis, machine learning and applied AI, from cleaning and analysing data in SQL and Python to training, evaluating and deploying models. I have a particular interest in financial and business data, and I like projects that go end to end: a clear question, a fair baseline, an honest evaluation and something people can run.
 
----
+## Current work
 
-## 🛠️ Tech Stack
+**Groupthink in multi-agent LLM systems** (ongoing). An experiment testing whether LLM agents abandon correct answers to match a group, and whether a dissenting agent helps. A pilot on 50 questions is complete; larger runs are planned.
 
-**Languages**
+**Akshar** (ongoing). Real-time handwritten MODI script recognition, with multi-character detection as the next stage.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+## Selected projects
 
-**Libraries & Frameworks**
+| Project | Summary | Key result | Stack |
+|---|---|---|---|
+| [Groupthink-in-MAS](https://github.com/Gauri210/Groupthink-in-MAS) | Solo vs group vs group-with-contrarian conditions, scored by an LLM judge | Peer exposure flipped correct answers in 10% of cases (pilot, n=50) | Python, LangGraph, Ollama, Streamlit |
+| [Akshar](https://github.com/Gauri210/Akshar) | MODI character recognition across 57 classes, served via FastAPI with a live drawing canvas | YOLO 81.7% top-1 at 19 ms/image vs CNN + SVC 78.6% | PyTorch, YOLO, scikit-learn, FastAPI, Docker |
+| [FinLens](https://github.com/Gauri210/FinLens) | Retrieval-augmented assistant for financial documents combining per-upload (FAISS) and persistent (Pinecone) retrieval | Swappable Groq / Amazon Bedrock backends | LangGraph, Pinecone, Streamlit |
+| [PCOS Detection](https://github.com/Gauri210/PCOS-Detection-CNN-vs-Naives-Bayes) | CNN vs Gaussian Naive Bayes on ultrasound images | CNN: 78.8% accuracy, 87.0% F1 | TensorFlow/Keras, scikit-learn, OpenCV |
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+## Technical skills
 
-**Tools & Platforms**
+- **Languages:** Python, SQL, C++, R
+- **Data and ML:** pandas, NumPy, scikit-learn, statsmodels, PyTorch, TensorFlow, YOLO
+- **LLM and agentic systems:** LangChain, LangGraph, RAG, FAISS, Pinecone, Ollama
+- **Tools:** Git, FastAPI, Docker, Jupyter, MySQL, Power BI, Tableau
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+## Contact
 
-
----
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-deshmukh21/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauri210)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gaurideshmukh@gmail.com)
-
----
+[LinkedIn](https://www.linkedin.com/in/gauri-deshmukh21/) · [Email](mailto:gaurideshmukh@gmail.com)
